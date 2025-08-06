@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Travel Blog</title>
+</head>
+<body>
+<h1>My Travel Blog</h1>
+<p>
+<a href="#">Home</a> |
+<a href="#">Destinations</a> |
+<a href="#">Gallery</a> |
+<a href="#">Contact</a>
+</p>
+<table width="100%" border="0" cellspacing="10">
+<tr>
+<td width="70%" valign="top">
+<h2>My Trip to Vanjangi</h2>
+<p>Last Winter, I visited Vanjangi — a peaceful hilltop destination with beautiful sunrise views. The early morning trek was a bit challenging, but the scenery at the top made it all worth it. Watching the sun rise above the clouds was a magical moment I’ll never forget!</p>
+</td>
+<td width="30%" valign="top">
+<h3>Travel Tips</h3>
+<ul>
+<li>Start your trek early (around 4 AM)</li>
+<li>Carry a flashlight or headlamp</li>
+<li>Wear comfortable shoes</li>
+<li>Bring water and light snacks</li>
+</ul>
+</td>
+</tr>
+</table>
+<hr>
+<p align="center">Contact: dimple@example.com | © 2025 All Rights Reserved</p>
+</body>
+</html>
